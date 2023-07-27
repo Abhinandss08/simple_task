@@ -1,0 +1,1 @@
+--cached is an alternate way to .gitignore.
